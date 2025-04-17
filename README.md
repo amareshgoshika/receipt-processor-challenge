@@ -11,7 +11,7 @@ A simple receipt processor that processes receipts and calculates points accordi
 1. Clone the repo:
 ```bash
 git clone <your-repo-url>
-cd receipt-processor
+cd receipt-processor-challenge
 ```
 
 2. Run the code:
